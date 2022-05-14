@@ -1,5 +1,4 @@
 # Code Refactor
-
 ## Description
 
 This application was given a starter code to improve the codebase for long-term sustainability, so that the clients site is optimized for search engines  improve the codebase for long-term sustainability.
@@ -9,7 +8,6 @@ This application was given a starter code to improve the codebase for long-term 
 - [Site functionality](#site-functionality)
 - [Technologies used](#technologies-used)
 - [Deployed link](#deployed-link)
-- [Author](#author)
 
 ## Site Functionality
 
@@ -21,8 +19,6 @@ The following image shows the web application's appearance and functionality:
 
 `HTML` `CSS`
 ## Deployed Link
+My live website can be found [here](http://katerynatekmenzhi.github.io/code-refactor)
 
-
-
-## Author
-
+My file repository in GitHub is [here](https://github.com/KaterynaTekmenzhi/code-refactor)
